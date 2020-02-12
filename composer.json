@@ -1,6 +1,7 @@
 {
     "name": "iworkable/laravel-mailbox",
     "description": "iworkable/laravel-mailbox",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mona A",
