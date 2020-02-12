@@ -1,0 +1,11 @@
+{
+    "name": "thewi/laravel-mailbox",
+    "description": "iworkable/laravel-mailbox",
+    "authors": [
+        {
+            "name": "Mona A",
+            "email": "iworkable@iworkable.com"
+        }
+    ],
+    "require": {}
+}
